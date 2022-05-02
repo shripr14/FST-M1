@@ -1,0 +1,14 @@
+Status: PASS
+Time Taken: 114
+Size: 0
+Timestamp: Mon Apr 11 16:09:12 IST 2022
+TestStep: PropertyTransfer 1
+
+----------------- Messages ------------------------------
+Performed transfer [id]
+----------------------------------------------------
+id transferred [[64849330]] from [POST.Response] to [DELETE.keyID]
+------------ source path -------------
+$['id']
+------------ target path -------------
+

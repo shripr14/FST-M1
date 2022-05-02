@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-property_transfer_step">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="property_transfer_step" clip-path="url(#clip-property_transfer_step)">
+    <g id="Group_4401" data-name="Group 4401">
+      <rect id="Rectangle_10420" data-name="Rectangle 10420" width="6" height="2" transform="translate(1 2)" fill="#144997"/>
+      <rect id="Rectangle_10424" data-name="Rectangle 10424" width="6" height="2" transform="translate(1 12)" fill="#144997"/>
+      <rect id="Rectangle_10421" data-name="Rectangle 10421" width="6" height="2" transform="translate(9 2)" fill="#2cb14a"/>
+      <rect id="Rectangle_10425" data-name="Rectangle 10425" width="6" height="2" transform="translate(9 12)" fill="#2cb14a"/>
+      <path id="Path_3459" data-name="Path 3459" d="M-2.582-9.552a.331.331,0,0,0-.332.332v2.568H-4.349a.332.332,0,0,0-.235.567L-2.153-3.65a.332.332,0,0,0,.47,0L.749-6.085a.332.332,0,0,0-.235-.567H-.922V-9.22a.331.331,0,0,0-.332-.332Z" transform="translate(9.932 14.552)" fill="#4b5662"/>
+    </g>
+  </g>
+</svg>
